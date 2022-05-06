@@ -11,12 +11,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <title>Produto</title>
+    <link rel="stylesheet" href="estilos.css">
 
 </head>
 
 <body>
 
-    <h1>Produtos<h1>
+    <h1>Produtos</h1>
     <form action="cadastra-produtos.php" method="post">
     produto:
     <input name="produto" id="produto">
